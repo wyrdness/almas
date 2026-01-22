@@ -1,0 +1,554 @@
+{
+  "category": "CRYPTID",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/almas",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "almas",
+    "name": "Almas",
+    "aliases": [
+      {
+        "name": "Almasty",
+        "language": "Russian",
+        "region": "Caucasus/Russia"
+      },
+      {
+        "name": "Abnauayu",
+        "language": "Mongolian",
+        "region": "Mongolia"
+      },
+      {
+        "name": "Ksy-Gyik",
+        "language": "Kyrgyz",
+        "region": "Kyrgyzstan"
+      },
+      {
+        "name": "Kaptar",
+        "language": "Mongolian",
+        "region": "Mongolia"
+      }
+    ],
+    "category": "CRYPTID",
+    "subcategory": "Humanoid",
+    "tags": [
+      "humanoid",
+      "bipedal",
+      "wildman",
+      "central-asia",
+      "mongolia",
+      "caucasus",
+      "neanderthal-theory"
+    ],
+    "status": "active",
+    "description": {
+      "summary": "A wildman creature reported from Central Asia, particularly Mongolia and the Caucasus Mountains. Described as 5-6.5 feet tall with reddish-brown hair and human-like features, some researchers theorize it could represent surviving Neanderthal populations.",
+      "full": "The Almas (also Almasty) is a humanoid cryptid reported from the mountainous regions of Central Asia, including Mongolia, the Caucasus, Pamir Mountains, and Altai Mountains. Described as standing 5-6.5 feet tall, covered in reddish-brown hair with a more human-like face than ape-like, featuring a pronounced brow ridge. The creature is generally described as shy and avoiding human contact. The most famous case involves Zana, an alleged female Almas captured in the 1850s in Abkhazia who lived among humans and reportedly bore children with human features. DNA analysis in 2013 of Zana's descendants was inconclusive but suggested possible sub-Saharan African ancestry. The Almas phenomenon has connections to historical accounts including possible references by Marco Polo to wildmen in Central Asia."
+    },
+    "etymology": {
+      "origin": "Turkic/Mongolian term for wildman or wild person",
+      "meaning": "Wildman or wild creature",
+      "first_use": "Traditional usage in Central Asian cultures"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "CRYPTID",
+      "type": "Humanoid",
+      "subtype": "Wildman",
+      "variant": "Central Asian"
+    },
+    "related_phenomena": [
+      {
+        "id": "yeti",
+        "name": "Yeti",
+        "relationship": "similar",
+        "description": "Sometimes conflated, but Almas described as more human-like"
+      },
+      {
+        "id": "yeren",
+        "name": "Yeren",
+        "relationship": "similar",
+        "description": "Chinese wildman, similar descriptions"
+      },
+      {
+        "id": "bigfoot",
+        "name": "Bigfoot",
+        "relationship": "similar",
+        "description": "North American wildman, larger than Almas"
+      },
+      {
+        "id": "orang-pendek",
+        "name": "Orang Pendek",
+        "relationship": "similar",
+        "description": "Southeast Asian cryptid primate"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "height": {
+        "min": 1.52,
+        "max": 1.98,
+        "unit": "meters",
+        "confidence": "medium"
+      },
+      "weight": {
+        "min": 50,
+        "max": 90,
+        "unit": "kilograms",
+        "confidence": "low"
+      },
+      "coloration": [
+        "reddish-brown",
+        "brown",
+        "gray-brown"
+      ],
+      "features": [
+        {
+          "feature": "Body hair",
+          "description": "Covered in reddish-brown hair, less dense than great apes",
+          "frequency": "always"
+        },
+        {
+          "feature": "Facial structure",
+          "description": "Human-like face with pronounced brow ridge, less ape-like than Yeti",
+          "frequency": "always"
+        },
+        {
+          "feature": "Build",
+          "description": "Human-like proportions, muscular, slightly hunched posture",
+          "frequency": "common"
+        },
+        {
+          "feature": "Brow ridge",
+          "description": "Prominent brow ridge, Neanderthal-like feature",
+          "frequency": "common"
+        }
+      ],
+      "morphology": "Humanoid with more human-like proportions than typical ape-man cryptids. Bipedal, human-like face with archaic features including pronounced brow ridge. Less hair coverage than Yeti or Bigfoot."
+    },
+    "abilities": [
+      {
+        "ability": "Bipedal walking",
+        "description": "Walks upright like humans",
+        "frequency": "always",
+        "evidence_level": "reported"
+      },
+      {
+        "ability": "Tool use",
+        "description": "Some reports suggest basic tool use",
+        "frequency": "rare",
+        "evidence_level": "anecdotal"
+      },
+      {
+        "ability": "Vocalization",
+        "description": "Reported to make human-like sounds",
+        "frequency": "occasional",
+        "evidence_level": "reported"
+      }
+    ],
+    "behavior": {
+      "activity_period": "variable",
+      "disposition": "shy",
+      "social_structure": "solitary or small groups",
+      "habitat_preference": [
+        "mountain regions",
+        "remote valleys",
+        "caves",
+        "forests"
+      ],
+      "diet": "Presumed omnivorous",
+      "patterns": [
+        "Avoids human contact",
+        "Nocturnal tendencies",
+        "Cave dwelling reported",
+        "Occasional crop raiding"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Central Asia, primarily Caucasus Mountains, Pamir Mountains, Mongolia, and Altai Mountains. Reports span from Russia to China.",
+      "continents": ["Asia"],
+      "countries": ["Mongolia", "Russia", "Kazakhstan", "Kyrgyzstan", "China", "Georgia", "Abkhazia"],
+      "regions": [
+        "Caucasus Mountains",
+        "Pamir Mountains",
+        "Altai Mountains",
+        "Gobi Desert fringes",
+        "Mongolian highlands"
+      ]
+    },
+    "hotspots": [
+      {
+        "name": "Caucasus Mountains",
+        "location": {
+          "description": "Caucasus mountain range",
+          "country": "Russia/Georgia",
+          "region": "Caucasus",
+          "coordinates": {
+            "latitude": 42.5,
+            "longitude": 44.0,
+            "precision": "region"
+          }
+        },
+        "sighting_count": 50,
+        "peak_period": "1850s-1900s",
+        "notes": "Zana capture location, historical sightings"
+      },
+      {
+        "name": "Altai Mountains",
+        "location": {
+          "description": "Altai mountain range",
+          "country": "Mongolia/Russia/China/Kazakhstan",
+          "region": "Central Asia",
+          "coordinates": {
+            "latitude": 49.5,
+            "longitude": 88.0,
+            "precision": "region"
+          }
+        },
+        "sighting_count": 30,
+        "peak_period": "1900s-present",
+        "notes": "Ongoing sightings, remote region"
+      }
+    ],
+    "temporal": {
+      "first_recorded": {
+        "date": "Medieval period",
+        "circa": true,
+        "source": "Possible Marco Polo references to wildmen"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "1850s",
+          "description": "Zana capture and integration"
+        },
+        {
+          "period": "1960s-1980s",
+          "description": "Soviet-era research and expeditions"
+        }
+      ],
+      "seasonal_patterns": "No clear seasonal pattern"
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Central Asian folklore includes wildmen traditions across multiple cultures. Mongolian, Kazakh, Kyrgyz, and Caucasian peoples have historical accounts of wild humans.",
+      "earliest_accounts": "Medieval references, possible Marco Polo mention. Formalized in 19th century European documentation.",
+      "folklore_connections": "Connected to broader Eurasian wildman traditions, distinct from Yeti in being more human-like."
+    },
+    "timeline": [
+      {
+        "date": "1272-1295",
+        "event": "Marco Polo travels",
+        "significance": "Possible reference to wildmen in Central Asia",
+        "source": "The Travels of Marco Polo"
+      },
+      {
+        "date": "1850s",
+        "event": "Zana captured in Abkhazia",
+        "significance": "Alleged female Almas captured, lived among humans, bore children",
+        "source": "Historical accounts, later investigation"
+      },
+      {
+        "date": "1960s-1980s",
+        "event": "Soviet research expeditions",
+        "significance": "Systematic investigation by Soviet scientists",
+        "source": "Soviet scientific literature"
+      },
+      {
+        "date": "2013",
+        "event": "Zana DNA analysis",
+        "significance": "Analysis of Zana's descendants, inconclusive results",
+        "source": "Genetic analysis by Bryan Sykes"
+      }
+    ],
+    "modern_era": "Contemporary research limited, mostly historical analysis and investigation of Zana case. Area remains remote with occasional sighting reports."
+  },
+
+  "sightings": {
+    "statistics": {
+      "total_documented": 200,
+      "verified": 0,
+      "disputed": 180,
+      "debunked": 10,
+      "date_range": {
+        "earliest": "1850s",
+        "latest": "2026"
+      }
+    },
+    "notable": [
+      {
+        "id": "almas-sighting-1850s-zana",
+        "name": "Zana Capture and Integration",
+        "date": {
+          "value": "1850s",
+          "precision": "decade"
+        },
+        "location": {
+          "description": "Ochamchire region, Abkhazia",
+          "country": "Abkhazia (Georgia)",
+          "region": "Caucasus",
+          "coordinates": {
+            "precision": "region"
+          }
+        },
+        "witnesses": {
+          "count": "multiple",
+          "types": ["Local villagers", "later investigators"],
+          "credibility_factors": ["Long-term observation", "Multiple witnesses over years", "Descendants exist"]
+        },
+        "description": "Zana was allegedly a female Almas captured in the Caucasus region in the 1850s. Described as covered in reddish-brown hair with more human-like features than ape-like. She was reportedly integrated into local society, lived in captivity, and bore several children with local men. The children exhibited some unusual features but were generally human in appearance and integrated into society. Zana died in the 1880s. Her story was investigated by Soviet researcher Boris Porshnev in the 1960s.",
+        "conditions": {
+          "weather": "Various",
+          "visibility": "Long-term observation",
+          "time_of_day": "Various",
+          "duration": "Decades (1850s-1880s)"
+        },
+        "evidence": [
+          "Historical accounts from villagers",
+          "Descendants with DNA available",
+          "Skull examination (one of Zana's sons)",
+          "2013 DNA analysis"
+        ],
+        "credibility": {
+          "rating": "high",
+          "factors": [
+            "Multiple witnesses over extended period",
+            "Physical descendants exist",
+            "DNA analysis conducted",
+            "Historical documentation",
+            "Skull examination shows unusual features"
+          ],
+          "notes": "Most documented Almas case. 2013 DNA analysis suggested possible sub-Saharan African ancestry but was inconclusive regarding Almas hypothesis. Skull showed some unusual features but not conclusively non-human."
+        },
+        "sources": [
+          "Porshnev, B. (1960s). Investigation reports",
+          "Sykes, B. (2013). DNA analysis of Zana's descendants",
+          "Historical Abkhazian records"
+        ],
+        "featured": true
+      }
+    ],
+    "database_path": "./sightings/"
+  },
+
+  "evidence": {
+    "physical": [
+      {
+        "id": "almas-evidence-zana-dna",
+        "type": "DNA analysis",
+        "name": "Zana Descendant DNA",
+        "date": "2013",
+        "description": "DNA analysis of Zana's descendants conducted by Bryan Sykes",
+        "status": "inconclusive",
+        "analysis": "Analysis suggested possible sub-Saharan African ancestry, not conclusive for Almas hypothesis. Did not match known ape species.",
+        "source": "Bryan Sykes research"
+      },
+      {
+        "id": "almas-evidence-skull",
+        "type": "skeletal remains",
+        "name": "Zana's son skull",
+        "date": "Various examinations",
+        "description": "Skull of one of Zana's sons examined by researchers",
+        "status": "disputed",
+        "analysis": "Showed some unusual features but not conclusively non-human. Suggested possible hybrid or unusual human ancestry.",
+        "source": "Soviet and later researchers"
+      },
+      {
+        "id": "almas-evidence-footprints",
+        "type": "footprints",
+        "name": "Various footprint reports",
+        "date": "Various",
+        "description": "Footprints reported from Central Asian regions",
+        "status": "disputed",
+        "analysis": "No systematic analysis, mostly anecdotal",
+        "source": "Various witnesses"
+      }
+    ],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": [
+      {
+        "id": "almas-evidence-hair",
+        "type": "hair samples",
+        "name": "Various hair samples",
+        "description": "Hair samples reported from sighting locations",
+        "status": "disputed",
+        "analysis": "Most identified as known animals or inconclusive"
+      }
+    ]
+  },
+
+  "theories": {
+    "paranormal": [],
+    "scientific": [
+      {
+        "name": "Surviving Neanderthal populations",
+        "description": "Almas represents isolated surviving Neanderthal populations in remote Central Asian mountains",
+        "proponents": ["Boris Porshnev", "Some Soviet researchers"],
+        "evidence_cited": ["Human-like features", "Brow ridge", "Zana case suggesting archaic human", "Central Asian location within Neanderthal range"]
+      },
+      {
+        "name": "Homo erectus remnant",
+        "description": "Could represent surviving Homo erectus or related archaic human species",
+        "proponents": ["Various cryptozoologists"],
+        "evidence_cited": ["Bipedal locomotion", "Human-like proportions", "Regional distribution"]
+      },
+      {
+        "name": "Unknown primate",
+        "description": "Undiscovered primate species adapted to Central Asian mountains",
+        "proponents": ["Some cryptozoologists"],
+        "evidence_cited": ["Consistent descriptions", "Remote habitat"]
+      },
+      {
+        "name": "African ancestry hybrid",
+        "description": "Based on Zana DNA, possible descendant of displaced African population with unusual features",
+        "proponents": ["Bryan Sykes (cautiously)"],
+        "evidence_cited": ["2013 DNA analysis suggesting sub-Saharan African ancestry"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Folklore tradition",
+        "description": "Purely folkloric with no biological basis, part of cultural tradition",
+        "proponents": ["Skeptics"],
+        "evidence_cited": ["No physical specimen", "Part of widespread wildman folklore"]
+      },
+      {
+        "name": "Misidentification",
+        "description": "Sightings are misidentifications of humans, bears, or other known animals",
+        "proponents": ["Skeptics"],
+        "evidence_cited": ["Remote locations with limited contact", "Cultural expectations"]
+      },
+      {
+        "name": "Zana as human outcast",
+        "description": "Zana was human with unusual features (possibly African ancestry) who was ostracized",
+        "proponents": ["Some researchers based on DNA"],
+        "evidence_cited": ["DNA analysis", "Descendants were clearly human", "Historical period of slavery/displacement"]
+      }
+    ]
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Mongolian wildman traditions",
+        "Caucasian mountain spirit folklore",
+        "Kazakh and Kyrgyz wild people stories"
+      ],
+      "stories": [
+        "Zana integration into village society",
+        "Historical traveler accounts",
+        "Local legends of mountain wildmen"
+      ],
+      "beliefs": "Varied across cultures. Some view as real creatures, others as spirits or legendary beings. Generally feared or treated with caution."
+    },
+    "indigenous": {
+      "cultures": [
+        "Mongolian peoples",
+        "Caucasian ethnic groups",
+        "Kazakh",
+        "Kyrgyz",
+        "Various Central Asian cultures"
+      ],
+      "significance": "Part of traditional knowledge systems. Wildman accounts integrated into regional folklore and historical narratives.",
+      "sensitivity_note": "Central Asian folk traditions should be respected as cultural heritage. These traditions reflect complex relationships with wilderness and unknown.",
+      "respect_guidelines": "Consult local communities and cultural authorities when researching in these regions."
+    },
+    "popular_culture": {
+      "literature": [
+        "Soviet cryptozoological literature",
+        "Various cryptozoology encyclopedias",
+        "Porshnev's research publications"
+      ],
+      "film_tv": [
+        "Various cryptozoology documentaries",
+        "Soviet-era documentary footage"
+      ],
+      "games": [],
+      "other": [
+        "Academic interest in Neanderthal survival theories",
+        "Historical anthropology research"
+      ]
+    }
+  },
+
+  "research": {
+    "researchers": [
+      {
+        "name": "Boris Porshnev",
+        "affiliation": "Soviet Academy of Sciences",
+        "contribution": "Investigated Zana case in 1960s, proposed Neanderthal survival theory",
+        "period": "1960s-1970s"
+      },
+      {
+        "name": "Bryan Sykes",
+        "affiliation": "University of Oxford",
+        "contribution": "DNA analysis of Zana's descendants (2013)",
+        "period": "2013"
+      },
+      {
+        "name": "Marie-Jeanne Koffmann",
+        "affiliation": "Independent researcher",
+        "contribution": "Decades of fieldwork in Caucasus region",
+        "period": "1960s-2000s"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Soviet Academy of Sciences (historical)",
+        "focus": "1960s-1980s research expeditions"
+      }
+    ],
+    "ongoing_studies": "Limited active research. Primarily historical analysis of Zana case and occasional expedition reports. DNA analysis of any available samples continues."
+  },
+
+  "sources": [
+    {
+      "id": "sykes-2013",
+      "type": "article",
+      "title": "DNA analysis of Zana descendants",
+      "authors": ["Bryan Sykes"],
+      "publication": "Genetic research",
+      "date": "2013"
+    },
+    {
+      "id": "porshnev-1960s",
+      "type": "research",
+      "title": "Zana investigation and Neanderthal theory",
+      "authors": ["Boris Porshnev"],
+      "publication": "Soviet scientific literature",
+      "date": "1960s"
+    },
+    {
+      "id": "koffmann-research",
+      "type": "fieldwork",
+      "title": "Caucasus Almas research",
+      "authors": ["Marie-Jeanne Koffmann"],
+      "date": "1960s-2000s"
+    }
+  ]
+}
